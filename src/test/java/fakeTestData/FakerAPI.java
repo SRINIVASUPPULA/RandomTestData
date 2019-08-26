@@ -58,12 +58,6 @@ public class FakerAPI {
 	data[7]	= faker.internet().password();
 
 	
-
-	
-
-	
-	
-	
 	/*String fullname  = faker.name().fullName();
 	String firstname  = faker.name().firstName();
 	String lastname  = faker.name().lastName();
