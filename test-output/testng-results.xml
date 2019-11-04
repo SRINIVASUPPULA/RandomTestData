@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28165" started-at="2019-08-25T17:35:11Z" finished-at="2019-08-25T17:35:39Z">
+  <suite name="Default suite" duration-ms="35952" started-at="2019-09-05T11:20:24Z" finished-at="2019-09-05T11:21:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28165" started-at="2019-08-25T17:35:11Z" finished-at="2019-08-25T17:35:39Z">
-      <class name="KrishnaSakinala.krishnaSakinala.SliderExample">
-        <test-method status="PASS" signature="adjustSlider()[pri:0, instance:KrishnaSakinala.krishnaSakinala.SliderExample@6451e]" name="adjustSlider" duration-ms="28091" started-at="2019-08-25T17:35:11Z" finished-at="2019-08-25T17:35:39Z">
+    <test name="Default test" duration-ms="35952" started-at="2019-09-05T11:20:24Z" finished-at="2019-09-05T11:21:00Z">
+      <class name="KrishnaSakinala.krishnaSakinala.MakeMyTrip">
+        <test-method status="PASS" signature="findJourney()[pri:0, instance:KrishnaSakinala.krishnaSakinala.MakeMyTrip@6451e]" name="findJourney" duration-ms="35876" started-at="2019-09-05T11:20:24Z" finished-at="2019-09-05T11:21:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- adjustSlider -->
-      </class> <!-- KrishnaSakinala.krishnaSakinala.SliderExample -->
+        </test-method> <!-- findJourney -->
+      </class> <!-- KrishnaSakinala.krishnaSakinala.MakeMyTrip -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
